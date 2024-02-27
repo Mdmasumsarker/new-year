@@ -1,0 +1,122 @@
+.banner{
+    background-image: url(../resources/Banner\ Image.png);
+
+width: 100%;
+height: 600px;
+
+border-radius: 16px;
+background-repeat: no-repeat;
+
+
+
+
+}
+.banner-title{
+    color: rgb(255, 255, 255);
+    font-family: Merriweather;
+    font-size: 32px;
+        text-align: center;
+        align-items: center;
+    
+        padding: 170px 530px 16px;
+}
+.banner-description{
+    wiith: 632px;
+    height: 190px;
+    color: rgb(255, 255, 255);
+font-family: Merriweather;
+font-size: 72px;
+
+text-align: center;
+padding: 0 144px 177px;
+
+}
+.discount{
+    margin: 120px 259px;
+
+}
+.discount-title{
+    
+color: rgb(255, 0, 0);
+font-family: Inter;
+font-size: 88px;
+font-weight: 700;
+line-height: 107px;
+letter-spacing: 0%;
+text-align: center;
+padding: 0 210px 50px;
+
+}
+.discount-detailes{
+    padding: 0 210px 16px;
+color: rgb(255, 0, 0);
+font-family: Inter;
+
+text-align: center;
+}
+.categories{
+    /* ALL CATEGORIES */
+padding: 0 196px 50px;
+color: rgb(7, 2, 17);
+font-family: Inter;
+font-size: 48px;
+
+line-height: 58px;
+letter-spacing: 0%;
+text-align: center;
+
+}
+.welcome{
+    display: flex;
+    margin: 120px 140px;
+    background-image: url(../resources/Vectorrr.png);
+    background-repeat: no-repeat;
+}
+.welcome-title{
+    padding: 125px 95px 24px 125px;
+    color: rgb(255, 255, 255);
+font-family: Merriweather;
+font-size: 64px;
+font-weight: 900;
+line-height: 88px;
+letter-spacing: 11%;
+text-align: left;
+}
+.welcome-description{
+    padding: 0 40px 48px 125px;
+    color: rgba(255, 255, 255, 0.8);
+font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0%;
+text-align: left;
+}
+.join-btn{
+   margin-left: 158px ;
+   margin-bottom: 142px ;
+   border-radius: 16px;
+background: linear-gradient(90.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%);
+   color: rgb(255, 255, 255);
+
+
+}
+footer{
+    background: rgb(7, 2, 17);
+}
+.footer-main{
+    display:flex;
+    
+    color: rgb(255, 255, 255);
+    justify-content: space-between;
+    
+}
+.footer-one{
+    width: 50%;
+    padding: 120px 80px 50px 140px;
+}
+.footer-two{
+    width: 50%;
+    padding: 120px 290px 50px 250px;
+
+}
